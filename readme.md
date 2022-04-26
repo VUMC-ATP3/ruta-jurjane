@@ -1,1 +1,1 @@
-###This is Ruta Jurjane first repo and readme file.
+###This is Ruta Jurjane second repo and readme file.
